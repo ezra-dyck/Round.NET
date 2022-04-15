@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round.NET", "Round.NET\Round.NET.csproj", "{BD98FA12-892E-4E04-B6D5-5DFCDEE6FC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round.NET.Test", "Round.NET.Test\Round.NET.Test.csproj", "{E676D43B-089C-4994-A112-184E32CD8ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD98FA12-892E-4E04-B6D5-5DFCDEE6FC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD98FA12-892E-4E04-B6D5-5DFCDEE6FC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD98FA12-892E-4E04-B6D5-5DFCDEE6FC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD98FA12-892E-4E04-B6D5-5DFCDEE6FC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E676D43B-089C-4994-A112-184E32CD8ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E676D43B-089C-4994-A112-184E32CD8ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E676D43B-089C-4994-A112-184E32CD8ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E676D43B-089C-4994-A112-184E32CD8ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
